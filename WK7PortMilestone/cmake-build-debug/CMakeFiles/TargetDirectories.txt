@@ -1,0 +1,3 @@
+/Users/kylelippard/CLionProjects/WK7PortMilestone/cmake-build-debug/CMakeFiles/WK7PortMilestone.dir
+/Users/kylelippard/CLionProjects/WK7PortMilestone/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/kylelippard/CLionProjects/WK7PortMilestone/cmake-build-debug/CMakeFiles/rebuild_cache.dir
